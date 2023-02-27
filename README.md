@@ -35,7 +35,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 ### Part 2: Design Your Climate App
 Now that you’ve completed your initial analysis, you’ll design a Flask API based on the queries that you just developed. To do so, use Flask to create your routes as follows:
 
-1. / <br>
+1. /
     - Start at the homepage.
     - List all the available routes.
 
