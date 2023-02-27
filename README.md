@@ -23,13 +23,13 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 ### Station Analysis
 1. Design a query to calculate the total number of stations in the dataset.
 2. Design a query to find the most-active stations (that is, the stations that have the most rows). To do so, complete the following steps:
-- List the stations and observation counts in descending order.
-- Answer the following question: which station id has the greatest number of observations?
+&nbsp;- List the stations and observation counts in descending order.
+&nbsp;- Answer the following question: which station id has the greatest number of observations?
 3. Design a query that calculates the lowest, highest, and average temperatures that filters on the most-active station id found in the previous query.
 4. Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
-- Filter by the station that has the greatest number of observations.
-- Query the previous 12 months of TOBS data for that station.
-- Plot the results as a histogram with bins=12, as the following image shows:
+&nbsp;- Filter by the station that has the greatest number of observations.
+&nbsp;- Query the previous 12 months of TOBS data for that station.
+&nbsp;- Plot the results as a histogram with bins=12, as the following image shows:
 5. Close your session.
 
 ## Part 2: Design Your Climate App
